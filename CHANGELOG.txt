@@ -1,0 +1,4 @@
+== Changelog ==
+
+= 1.0 03/09/2018 =
+* Initial commit.
